@@ -1,4 +1,4 @@
  # git-demo
 this is my first repository
 <br>
-author-sarbeswar singh
+Author-sarbeswar singh(first)
